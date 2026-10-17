@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Muhammad Hussain</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+engineer;Backend+%C2%B7+systems+%C2%B7+performance;Building+things+and+measuring+them;Learning+%E6%97%A5%E6%9C%AC%E8%AA%9E" alt="Software engineer: backend, systems, performance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+engineer;Backend+%C2%B7+systems+%C2%B7+performance;Building+things+and+measuring+them;" alt="Software engineer: backend, systems, performance" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@ I'm a software engineer who likes building things properly: from the service a u
 - **Performance:** concurrency, latency, and finding where the time actually goes
 - **Systems and infrastructure:** Linux, containers, and controlling the environment code runs in
 - **Measuring things properly:** benchmarks and experiments that someone else can rerun and get the same answer
-- **Outside code:** learning Japanese
 
 ### Featured
 
