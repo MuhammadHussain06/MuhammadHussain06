@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/muhammad-hussain-997689424"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hussain-54118532a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.researchgate.net/profile/Muhammad-Hussain-327"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 
 ---
@@ -37,6 +37,6 @@ under real conditions, then making it faster, more predictable and easier to tru
 ### Get in touch
 
 Always happy to talk about backend engineering, performance, or interesting systems problems.<br/>
-Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-997689424) or [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327).
+Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-54118532a) or [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327).
 
 </div>
