@@ -8,6 +8,7 @@
 
 <a href="https://www.linkedin.com/in/muhammad-hussain-54118532a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.researchgate.net/profile/Muhammad-Hussain-327"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+<a href="https://orcid.org/0009-0002-7892-541X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
 
 ---
 
@@ -28,7 +29,7 @@ under real conditions, then making it faster, more predictable and easier to tru
 ### Featured
 
 **[ai-inference-overhead-harness](https://github.com/MuhammadHussain06/ai-inference-overhead-harness)**: latency benchmarking for ML microservices<br/><br/>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23084509.svg)](https://doi.org/10.5281/zenodo.23084509)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23534327.svg)](https://doi.org/10.5281/zenodo.23534327)
 
 ### Tools I work with
 
@@ -37,6 +38,6 @@ under real conditions, then making it faster, more predictable and easier to tru
 ### Get in touch
 
 Always happy to talk about backend engineering, performance, or interesting systems problems.<br/>
-Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-54118532a) or [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327).
+Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-54118532a), [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327) or [ORCID](https://orcid.org/0009-0002-7892-541X).
 
 </div>
