@@ -38,6 +38,6 @@ under real conditions, then making it faster, more predictable and easier to tru
 ### Get in touch
 
 Always happy to talk about backend engineering, performance, or interesting systems problems.<br/>
-Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-54118532a), [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327) or [ORCID](https://orcid.org/0009-0002-7892-541X).
+Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-54118532a), or [ResearchGate](https://www.researchgate.net/profile/Muhammad-Hussain-327)
 
 </div>
